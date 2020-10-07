@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta0">
+    <void property="pregunta">
+     <string>¿Que hora es  en tu lugar de origen?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>4:30</string>
+     </void>
+     <void method="add">
+      <string>6:30</string>
+     </void>
+     <void method="add">
+      <string>10:30</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta1">
+    <void property="pregunta">
+     <string>¿Como estas querido amigo?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>no se</string>
+     </void>
+     <void method="add">
+      <string>mmm no muy bien</string>
+     </void>
+     <void method="add">
+      <string>excelente !</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta2">
+    <void property="pregunta">
+     <string>¿De donde sos?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>mm te importa??</string>
+     </void>
+     <void method="add">
+      <string>de bs as</string>
+     </void>
+     <void method="add">
+      <string>de marpla bombon</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta3">
+    <void property="pregunta">
+     <string>¿Tenes algun perrito en tu casa?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>sii tengo, me encantan</string>
+     </void>
+     <void method="add">
+      <string>no, tengo gatos</string>
+     </void>
+     <void method="add">
+      <string>nup</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta4">
+    <void property="pregunta">
+     <string>¿Que me estas queriendo decir?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>nada nada</string>
+     </void>
+     <void method="add">
+      <string>que sos un pelotudito hermano</string>
+     </void>
+     <void method="add">
+      <string>que lucia es la mejor ;)</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta0">
+    <void property="pregunta">
+     <string>¿Que hora es  en tu lugar de origen?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>4:30</string>
+     </void>
+     <void method="add">
+      <string>6:30</string>
+     </void>
+     <void method="add">
+      <string>10:30</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta1">
+    <void property="pregunta">
+     <string>¿Como estas querido amigo?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>No se</string>
+     </void>
+     <void method="add">
+      <string>Mmm no muy bien</string>
+     </void>
+     <void method="add">
+      <string>Excelente !</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta2">
+    <void property="pregunta">
+     <string>¿De donde sos?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>Soy de Jujuy</string>
+     </void>
+     <void method="add">
+      <string>Soy de Bs As</string>
+     </void>
+     <void method="add">
+      <string>Soy de Mar del Plata</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta3">
+    <void property="pregunta">
+     <string>¿Tenes algun perrito en tu casa?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>Sii tengo, me encantan</string>
+     </void>
+     <void method="add">
+      <string>No, tengo gatos</string>
+     </void>
+     <void method="add">
+      <string>No, no tengo ningun perrito</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta4">
+    <void property="pregunta">
+     <string>¿Que me estas queriendo decir?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>Nada nada</string>
+     </void>
+     <void method="add">
+      <string>Que sos una gran persona</string>
+     </void>
+     <void method="add">
+      <string>Que este trabajo nos obliga a interactuar :)</string>
+     </void>
+     <void method="add">
+      <string>Te estoy queriendo decir que todo va bien</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta">
+    <void property="pregunta">
+     <string>¿Tomamos cafe?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta5">
+    <void property="pregunta">
+     <string>¿Como le esta yendo a Argentina?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>Muy mal</string>
+     </void>
+     <void method="add">
+      <string>No muy bien, yo sacaria a Sampaoli y a Caballero</string>
+     </void>
+     <void method="add">
+      <string>Bien, aguante Messi</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta6">
+    <void property="pregunta">
+     <string>¿Que estas haciendo en este momento?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>En este momento, soñando con un 10 en Progra 3</string>
+     </void>
+     <void method="add">
+      <string>Estoy pensando que Lionel, Guille e Ivonne son los mejores profesores</string>
+     </void>
+     <void method="add">
+      <string>Hablando con vos</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta7">
+    <void property="pregunta">
+     <string>¿Que vas a hacer el dia de mañana?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>Mañana voy a descansar y dormir mucho</string>
+     </void>
+     <void method="add">
+      <string>Mañana voy a ver el Mundial</string>
+     </void>
+     <void method="add">
+      <string>Mañana voy a pasear al perro</string>
+     </void>
+     <void method="add">
+      <string>No lo se aún</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Pregunta" id="Pregunta8">
+    <void property="pregunta">
+     <string>¿Como estuvo tu dia?</string>
+    </void>
+    <void property="respuestas">
+     <void method="add">
+      <string>Estuvo genial</string>
+     </void>
+     <void method="add">
+      <string>Mejor no preguntes</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
