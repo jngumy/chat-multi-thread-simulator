@@ -15,7 +15,7 @@ Basically, it's a multi thread chat simulator project made in Java. The main ide
 * Java Serializer
 * Java Swing and UI Layouts
 
-We used design Patterns like Singleton, MVC (Model-View-Controller), Observer-Observable, Template Method and Factory to solve different problems.
+We used design Patterns like Singleton, MVC (Model-View-Controller), Observer-Observable, Template Method, Decorator and Factory to solve different problems.
 
 
 ## Preview
