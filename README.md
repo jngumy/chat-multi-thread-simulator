@@ -22,10 +22,10 @@ We used design Patterns like Singleton, MVC (Model-View-Controller), Observer-Ob
 ![img](https://raw.githubusercontent.com/jngumy/chat-multi-thread-simulator/master/chat.png)
 
 ## Features
-* Register 2 types of users: human user or bot user.
+* Register 2 types of users: human or bot user.
 * Bots can send messages to humans or other bots. Every user in the system is a Thread.
-* Human user can broadcast a message (grupal chat) or send private message to other users. The messages are Question-Answer type.
-* Every user has a zodiac element (Fire, Water, Air or Earth). Depending of the sign, the answers may vary (Double Dispath)
+* Human User can broadcast a message (grupal chat) or send private message to other users. The messages are Question-Answer type.
+* Every User has a zodiac element (Fire, Water, Air or Earth). Depending of the sign, the answers may vary (Double Dispath)
 * Answer-Question persistent database (for the bots). Every time a bot receives a new answer, it will be stored on the database. A question can have
 multiple answers, so the bot can decide for any of them.
 * If a bot couldn't understand a question, it will ask to the user for its proper answer.
